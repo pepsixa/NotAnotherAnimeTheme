@@ -49,6 +49,15 @@
   --home-icon-image-zoom: 100%;
 
   /*
+    Server Listing Width
+    Single Column:  62px
+    Double Column:  126px
+    Triple Column:  184px
+    Quad Column:    242px
+  */
+  
+  --server-listing-width: 126px;
+  /*
     Font Size
   */
   --font-size: 100%;
